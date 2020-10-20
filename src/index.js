@@ -1,3 +1,2 @@
 import './styles.css';
-import './gallery-items.js';
-import './task-gallery';
+import './task-gallery.js';
